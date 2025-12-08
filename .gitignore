@@ -1,0 +1,8 @@
+*a.out
+test/*
+*_putchar.c
+*main.c
+.vscode/
+*gch
+!function_pointers/3-main.c
+.github/
